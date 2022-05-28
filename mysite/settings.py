@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'myapp.apps.MyappConfig'
+    'myapp.apps.MyappConfig',
+    'consultorio.apps.ConsultorioConfig'
 ]
 
 MIDDLEWARE = [
